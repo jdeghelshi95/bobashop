@@ -44,8 +44,8 @@ export default function Example() {
               <div className="rounded-2xl bg-gray-50 p-10">
                 <h3 className="text-base font-semibold leading-7 text-gray-900">Los Angeles</h3>
                 <address className="mt-3 space-y-1 text-sm not-italic leading-6 text-gray-600">
-                  <p>4556 Brendan Ferry</p>
-                  <p>Los Angeles, CA 90210</p>
+                  <p>229 N Main St, </p>
+                  <p>Manville, NJ 08835</p>
                 </address>
               </div>
             </div>

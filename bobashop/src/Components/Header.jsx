@@ -1,6 +1,7 @@
 import Background from "../Img/boba-milk-tea-in-a-tall-glass-with-ice-2024-02-04-02-10-29-utc.jpg";
 import Logo from "../Img/boba.png"
 
+
 export default function Example() {
   return (
     <div className="relative bg-white">

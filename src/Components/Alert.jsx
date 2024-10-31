@@ -2,14 +2,14 @@ import { XMarkIcon } from '@heroicons/react/20/solid'
 
 export default function Example() {
   return (
-    <div className="flex items-center gap-x-6 bg-gray-900 px-6 py-2.5 sm:px-3.5 sm:before:flex-1">
+    <div className="flex items-center gap-x-6 bg-orange-400 px-6 py-2.5 sm:px-3.5 sm:before:flex-1">
       <p className="text-sm leading-6 text-white">
         <a href="#">
           <strong className="font-semibold">Boba Milk Tea</strong>
           <svg viewBox="0 0 2 2" aria-hidden="true" className="mx-2 inline h-0.5 w-0.5 fill-current">
             <circle r={1} cx={1} cy={1} />
           </svg>
-          Grand Opening Coming Soon!  –  to see what’s coming next&nbsp;<span aria-hidden="true">&rarr;</span>
+          Grand Opening November 2nd!  –  Follow our Instagram for more Info!&nbsp;<span aria-hidden="true">&rarr;</span>
         </a>
       </p>
       <div className="flex flex-1 justify-end">

@@ -1,8 +1,8 @@
-import Background from "../Img/boba-milk-tea-in-a-tall-glass-with-ice-2024-02-04-02-10-29-utc.jpg";
+// import Background from "https://i.imgur.com/19rGxxt.jpeg";    
 import Logo from "../Img/boba.png"
 
 
-export default function Example() {
+export default function Header() {
   return (
     <div className="relative bg-white">
       <div className="mx-auto max-w-7xl lg:grid lg:grid-cols-12 lg:gap-x-8 lg:px-8">
@@ -11,7 +11,7 @@ export default function Example() {
             <img
               alt="Your Company"
               src={Logo}
-              className="h-34"
+              className="h-25"
             />
             <h1 className="mt-24 text-4xl font-bold tracking-tight text-gray-900 sm:mt-10 sm:text-6xl">
               Milk Boba Tea, Manville NJ
@@ -36,7 +36,7 @@ export default function Example() {
         <div className="relative lg:col-span-5 lg:-mr-8 xl:absolute xl:inset-0 xl:left-1/2 xl:mr-0">
           <img
             alt=""
-            src="https://tinyurl.com/boba121212"
+            src="https://i.imgur.com/7fhFatO.jpeg"
             className="aspect-[3/2] w-full bg-gray-50 object-cover lg:absolute lg:inset-0 lg:aspect-auto lg:h-full"
           />
         </div>

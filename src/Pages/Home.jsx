@@ -1,5 +1,7 @@
 import React from 'react'
 import Header from "../Components/Header"
+import Footer from "../Components/Footer"
+import Gallery from "../Components/Gallery"
 
 const Home = () => {
   return (
@@ -7,6 +9,13 @@ const Home = () => {
         <div>
             <Header/>
         </div>
+        <div className='w-full pt-6 '>
+          <Gallery/>
+        </div>
+        <div>
+          <Footer/>
+        </div>
+
     </div>
   )
 }

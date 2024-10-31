@@ -8,7 +8,7 @@ export default function Example() {
             {/* contact */}
               <h2 className="text-3xl font-bold tracking-tight text-gray-900">Get in touch</h2>
               <p className="mt-4 leading-7 text-gray-600">
-                Quam nunc nunc eu sed. Sed rhoncus quis ultricies ac pellentesque.
+                Contact us for any business Inquiries  
               </p>
             </div>
             <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:col-span-2 lg:gap-8">
@@ -37,12 +37,12 @@ export default function Example() {
             <div>
               <h2 className="text-3xl font-bold tracking-tight text-gray-900">Locations</h2>
               <p className="mt-4 leading-7 text-gray-600">
-                Consequat sunt cillum cillum elit sint. Qui occaecat nisi in ipsum commodo.
+                Our store Location
               </p>
             </div>
             <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:col-span-2 lg:gap-8">
               <div className="rounded-2xl bg-gray-50 p-10">
-                <h3 className="text-base font-semibold leading-7 text-gray-900">Los Angeles</h3>
+                <h3 className="text-base font-semibold leading-7 text-gray-900">Manville - NJ</h3>
                 <address className="mt-3 space-y-1 text-sm not-italic leading-6 text-gray-600">
                   <p>229 N Main St, </p>
                   <p>Manville, NJ 08835</p>

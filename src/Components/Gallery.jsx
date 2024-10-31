@@ -51,15 +51,15 @@ export default function Gallery() {
       <div className="flex space-x-4">
         <button
           onClick={prevImage}
-          className="bg-gray-800 text-white px-4 py-2 rounded hover:bg-gray-700 transition-all"
+          className="bg-gray-800 text-white px-4 py-2 rounded hover:bg-gray-700 transition-all flex items-center justify-center"
         >
-          
+          <span>&#8592;</span> {/* Left arrow */}
         </button>
         <button
           onClick={nextImage}
-          className="bg-gray-800 text-white px-4 py-2 rounded hover:bg-gray-700 transition-all"
+          className="bg-gray-800 text-white px-4 py-2 rounded hover:bg-gray-700 transition-all flex items-center justify-center"
         >
-          Next
+          <span>&#8594;</span> {/* Right arrow */}
         </button>
       </div>
     </div>

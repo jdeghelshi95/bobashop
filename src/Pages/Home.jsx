@@ -12,9 +12,7 @@ const Home = () => {
         <div className='w-full pt-6 '>
           <Gallery/>
         </div>
-        <div>
-          <Footer/>
-        </div>
+      
 
     </div>
   )

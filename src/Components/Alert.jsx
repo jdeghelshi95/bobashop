@@ -9,7 +9,7 @@ export default function Example() {
           <svg viewBox="0 0 2 2" aria-hidden="true" className="mx-2 inline h-0.5 w-0.5 fill-current">
             <circle r={1} cx={1} cy={1} />
           </svg>
-          Grand Opening November 2nd!  –  Follow our Instagram for more Info!&nbsp;<span aria-hidden="true">&rarr;</span>
+          Grand Opening November 9th!  –  Follow our Instagram for more Info!&nbsp;<span aria-hidden="true">&rarr;</span>
         </a>
       </p>
       <div className="flex flex-1 justify-end">

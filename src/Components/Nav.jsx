@@ -5,6 +5,7 @@ const navigation = [
   { name: 'Home', href: '/', current: true },
   { name: 'Menu', href: 'Menu', current: false },
   { name: 'Contact', href: 'Contact', current: false },
+  {name: "About", href: 'about', current: false}
 
 ]
 
